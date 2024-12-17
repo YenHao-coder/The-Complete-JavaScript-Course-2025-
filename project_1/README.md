@@ -1,5 +1,4 @@
 # 🛠️ Project 1 - JavaScript Fundamentals
-![image](https://github.com/user-attachments/assets/869d4069-5996-4cf5-a73c-930bca3a3231)
 
 # 📌 專案簡介
 此專案為 JavaScript 基礎概念練習，包含多個實作範例，幫助使用者理解 JavaScript 的核心語法與程  

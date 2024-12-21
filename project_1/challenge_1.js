@@ -8,3 +8,11 @@ let BMIMark1 = WeightsMark / HeightMark ** 2; // 計算 Mark 的BMI 指數
 let BMIJhon1 = WeightsJohn / HeightJhon ** 2; // 計算 Jhon 的 BMI 指數
 const markHigherBMI = BMIMark1 > BMIJhon1; // 判斷 "BMIMark1" 是否大於 "BMIJhon1"
 console.log(BMIMark1, BMIJhon1, markHigherBMI); // 展示 "BMIMark1" , "BMIJhon1" 與 "markHigherBMI" 等結果
+let massMark2 = 95;
+let heightMark2 = 1.88;
+let massJohn2 = 85;
+let heightJohn2 = 1.76;
+const BMIMark2 = massMark2 / (heightMark2 * heightMark2);
+const BMIJhon2 = massJohn2 / (heightJohn2 * heightJohn2);
+console.log(BMIMark2, BMIJhon2);
+console.log(BMIMark2 > BMIJhon2);
